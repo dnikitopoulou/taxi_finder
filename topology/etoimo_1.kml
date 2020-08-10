@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+	<Document>
+		<name>Taxi Routes</name>
+		<Style id="green">
+			<LineStyle>
+				<color>ff009900</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="red">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="pink">
+			<LineStyle>
+				<color>647850F0</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="darkblue">
+			<LineStyle>
+				<color>64781400</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="lightblue">
+			<LineStyle>
+				<color>64F0C814</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="orange">
+			<LineStyle>
+				<color>6414B4FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="yellowgreen">
+			<LineStyle>
+				<color>6414F0AA</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="purple">
+			<LineStyle>
+				<color>64FF78B4</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="royalpurple">
+			<LineStyle>
+				<color>6478003C</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="yellow">
+			<LineStyle>
+				<color>6414F0FF</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id="winered">
+			<LineStyle>
+				<color>64140082</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Placemark>
+			<name>Taxi 1</name>
+			<styleUrl>#red</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.741587,37.984125,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 2</name>
+			<styleUrl>#pink</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.691133,37.967339,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 3</name>
+			<styleUrl>#darkblue</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.757838,37.962517,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 4</name>
+			<styleUrl>#lightblue</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.789114,38.032908,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 5</name>
+			<styleUrl>#yellow</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.766993,38.018644,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 6</name>
+			<styleUrl>#yellowgreen</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.734153,37.961316,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 7</name>
+			<styleUrl>#purple</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.740078,37.945631,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 8</name>
+			<styleUrl>#green</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.756566,37.997309,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 9</name>
+			<styleUrl>#orange</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.767763,37.945429,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 10</name>
+			<styleUrl>#royalpurple</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.689228,38.010435,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Taxi 11</name>
+			<styleUrl>#winered</styleUrl>
+			<LineString>
+				<altitudeMode>relative</altitudeMode>
+				<coordinates>
+					23.795044,38.012519,0
+				</coordinates>
+			</LineString>
+		</Placemark>	
+	</Document>
+</kml>
